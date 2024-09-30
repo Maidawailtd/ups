@@ -61,6 +61,7 @@ body:
     options:
       - Postman App
       - Postman Web
+      - Postman VSCode Extension 
       - Both
       - Other
   validations:
